@@ -2,6 +2,9 @@
 This is the official English documentation for **EEZZ PIC2CLD Professional**, designed for GitHub deployment. It adheres to the 2026 ICC Engineering Standards (PHP 8.4+).
 
 ---
+<img width="1156" height="730" alt="697d21b62a436a2b2a67d1f04c62c7c1_screenshot-1_raw=true" src="https://github.com/user-attachments/assets/ee37851e-fb58-48f0-bfb8-c1633bb1d876" />
+
+<img width="1157" height="668" alt="1987a9a5e99d378dd451408511d0d696_screenshot-2_raw=true" src="https://github.com/user-attachments/assets/95191c3b-ad6f-4380-9300-04949a78a5e8" />
 
 # EEZZ PIC2CLD Professional - Industrial R2 Core
 
